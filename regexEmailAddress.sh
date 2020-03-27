@@ -8,7 +8,7 @@ clear
 shopt -s extglob
 
 #CONSTANTS
-regexPattern="^\w+"
+regexPattern="^\w+@\w+"
 
 #Variables
 emailAddress=0
